@@ -1,8 +1,9 @@
 # PBRoller
 Tired of manually mixing your natural peanut butter? Tired of getting oil everywhere and making a mess? Look no further! Simply place your peanut butter jar on the PBRoller, leave it for a few hours, and come back to perfectly mixed peanut butter!
 
-
 <img src="docs/images/pbroller.gif" width=500>
+
+Post your reviews and makes on [MakerWorld](https://makerworld.com/en/models/1134964#profileId-1135977) and [Printables](https://www.printables.com/model/1201341-pbroller-peanut-butter-mixer)
 
 ## Build Instructions
 ### Parts List
